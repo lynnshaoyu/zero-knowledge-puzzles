@@ -2,6 +2,8 @@
 
 Zero knowledge puzzles to learn writing circuits in [circom](https://docs.circom.io/) lang.
 
+PRE-REQUISITE READING: how ZK SNARKS work paper https://arxiv.org/pdf/1906.07221 
+
 ## Installation
 
 ### Rust
